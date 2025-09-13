@@ -1,2 +1,0 @@
-# lens
-Sewa camera subang
