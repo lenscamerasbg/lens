@@ -1,0 +1,25 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard Afiliasi</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; background: #f5f5f5; }
+    .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); max-width: 400px; margin: auto; }
+    h2 { text-align: center; }
+    .info { margin: 10px 0; }
+    .info strong { display: inline-block; width: 130px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Dashboard Karyawan</h2>
+    <div class="info"><strong>Nama:</strong> Budi</div>
+    <div class="info"><strong>ID Karyawan:</strong> AF2025X</div>
+    <div class="info"><strong>Total Pendapatan:</strong> Rp 1.500.000</div>
+    <div class="info"><strong>Program Aktif:</strong> Afiliasi Shopee</div>
+    <div class="info"><strong>Join Sejak:</strong> 13 Sept 2025</div>
+  </div>
+</body>
+</html>
